@@ -1,8 +1,9 @@
 - nom : Grevillot
 - prénom : Noa
-- URL Netlify : https://cool-rolypoly-08d774.netlify.app
+- URL Netlify : https://app.netlify.com/projects/cool-rolypoly-08d774/overview
 
-# Travail
+
+<!-- # Travail
 
 Documentation JS/DOM : [MDN](https://developer.mozilla.org/fr/)
 
@@ -12,9 +13,9 @@ Documentation JS/DOM : [MDN](https://developer.mozilla.org/fr/)
 
 Faire dans la console les commandes suivantes :
 
-![](/assets/img/changer-la-couleur-du-texte.png)
+![](/assets/img/changer-la-couleur-du-texte.png) -->
 
-### Réagir à un click
+<!-- ### Réagir à un click
 
 Faire dans la console les commandes suivantes :
 
@@ -22,7 +23,10 @@ Faire dans la console les commandes suivantes :
 
 Testez en cliquant sur le bouton.
 
-## Collections d'éléments
+ -->
+
+
+<!-- ## Collections d'éléments
 
 ### Trouvez tous les 'H2' du document
 
@@ -44,4 +48,4 @@ Les déclarations de variables doivent être précédées de `const` .
 
 Recharger la page et tester le click sur le bouton et les 'H2'.
 
-** Ne pas oublier de "Commit" et "Push" pour rendre **
+** Ne pas oublier de "Commit" et "Push" pour rendre ** -->
