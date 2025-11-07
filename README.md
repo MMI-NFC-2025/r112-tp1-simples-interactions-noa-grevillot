@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Grevillot
+- prénom : Noa
+- URL Netlify : https://cool-rolypoly-08d774.netlify.app
 
 # Travail
 
